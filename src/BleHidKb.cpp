@@ -163,7 +163,7 @@ void bluetoothTask(void *)
   output->setCallbacks(new OutputCallbacks());
 
   // set manufacturer name
-  hid->manufacturer()->setValue("Tech-Relief");
+  hid->manufacturer()->setValue("ESPLabs");
   // set USB vendor and product ID
   hid->pnp(0x02, 0xe502, 0xa111, 0x0210);
   // information about HID device: device is not localized, device can be connected
