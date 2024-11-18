@@ -9,6 +9,9 @@ Join the two pads (IN-OUT and USB-OTG) on ESP32-S3-YD-Wroom
 
 ![img1 - Copy - Copy](https://github.com/user-attachments/assets/8415558c-9432-46b7-812b-5577f6872d26)
 
-
+Not Working/Things to do:
+1) Num, Caps, Scroll Lock Led not working
+2) Fn key functions not working
+ 
 Modified from: https://github.com/TechRelief/ESP32-S3-OTG-KB-IO     
 Thanks to @[TechRelief](https://github.com/TechRelief)
